@@ -3,11 +3,7 @@ Portfolio of SQL projects and checkpoint assignments using the Northwind sample 
 
 # 📊 SQL Data Analytics — Northwind Database Portfolio
 
-![SQL](https://img.shields.io/badge/SQL-SQLite-blue?logo=sqlite&logoColor=white)
-![Database](https://img.shields.io/badge/Database-Northwind-orange)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-
-A hands-on SQL portfolio built around the classic **Northwind** sample database, progressing from basic filtering to advanced window functions and query optimization. Each checkpoint is a self-contained `.sql` file that tackles a real business question, followed by a short written insight explaining *why* the result matters — not just *how* it was produced.
+A SQL portfolio built around the classic **Northwind** sample database, progressing from basic filtering to advanced window functions and query optimization. Each checkpoint is a self-contained `.sql` file that tackles a real business question, followed by a short written insight explaining *why* the result matters — not just *how* it was produced.
 
 ## 🎯 About This Project
 
