@@ -81,5 +81,4 @@ sqlite3 northwind.db < Checkpoint-1.sql
 **Zahra Aliyeva**
 [GitHub Profile](https://github.com/Zahra-Aliyeva)
 
----
-⭐ If you find this useful for learning SQL, feel free to star the repo!
+
